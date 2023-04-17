@@ -1,5 +1,4 @@
 alert("WELCOME 🙂");
-alert("CLICKEA EN ACEPTAR PARA CONTINUAR A LA PÁGINA 😁");
 
 
 
